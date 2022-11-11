@@ -75,7 +75,7 @@ CREATE TABLE `gc_acc` (
 
 INSERT INTO `gc_acc` (`acc_numbre`, `account_id`, `gc_account_type`, `acc_status`, `acc_start`, `acc_end`) VALUES
 (1, 'garmiyashour', 'main', 'NA', '2022-04-28', '2022-04-28'),
-(2, 'erogomayke', 'main', 'A', '2022-04-28', '2022-04-28'),
+(2, 'erogomayke', 'main', 'NA', '2022-04-28', '2022-04-28'),
 (3, 'dahmandargo', 'main', 'NA', '2022-04-28', '2022-04-28'),
 (4, 'laminewalter7', 'main', 'NA', '2022-04-28', '2022-04-28'),
 (8, '0ct0pusx01xandrow', 'main', 'NA', '2022-04-28', '2022-04-20'),
